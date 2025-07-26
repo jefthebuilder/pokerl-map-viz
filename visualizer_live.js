@@ -20,7 +20,7 @@ let backgroundSharp = null;
 let backgroundSmooth = null;
 
 // animate each batch of updates for 12 seconds
-const animationDuration = 12000;
+const animationDuration = 1000;
 
 const container = new PIXI.Container();
 // scale and center container initially
